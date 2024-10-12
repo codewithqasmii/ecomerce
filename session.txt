@@ -1,0 +1,12 @@
+sessions
+
+1- session start  // create empty file
+2- session create  // store data in file
+3- session-unset or session-destroy
+
+to hold data in local system use cookies 
+to maintain data of variabe in file static
+to maintain data on server we use session
+
+web site protocal are stateless therefore we use session 
+
